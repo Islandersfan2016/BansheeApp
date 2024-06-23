@@ -58,7 +58,6 @@ function App() {
         <Navigation account={account} setAccount={setAccount} />
 
         <h2 className="header__title"><strong>Live</strong> Performances</h2>
-        <h3>Connect wallet to Moonbase Alpha to view tickets</h3>
       </header>
 
       <Sort />

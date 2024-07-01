@@ -15,7 +15,7 @@ const Navigation = ({ account, setAccount }) => {
         <input className='nav__search' type="text" placeholder='Find millions of experiences' />
 
         <ul className='nav__links'>
-          <li><a href="/">Concerts</a></li>
+          <li><a href="https://odd-silence-8553.on.fleek.co">Concerts</a></li>
           <li><a href="/">Airdops</a></li>
           <li><a href="/">Eventbrite</a></li>
           <li><a href="/">Artists</a></li>

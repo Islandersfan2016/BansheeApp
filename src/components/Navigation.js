@@ -17,7 +17,7 @@ const Navigation = ({ account, setAccount }) => {
         <ul className='nav__links'>
           <li><a href="/">Concerts</a></li>
           <li><a href="/">Airdops</a></li>
-          <li><a href="/">Music</a></li>
+          <li><a href="/">Eventbrite</a></li>
           <li><a href="/">Artists</a></li>
         </ul>
       </div>

@@ -17,7 +17,7 @@ const Navigation = ({ account, setAccount }) => {
         <ul className='nav__links'>
           <li><a href="https://odd-silence-8553.on.fleek.co">Concerts</a></li>
           <li><a href="/">Airdops</a></li>
-          <li><a href="/">Eventbrite</a></li>
+          <li><a href="https://www.eventbrite.com/o/banshee-music-87678492063?_gl=1*1wydv5r*_up*MQ..*_ga*ODYwMTQyMzQ0LjE3MTk4MzY5MjI.*_ga_TQVES5V6SH*MTcxOTgzNjkyMS4xLjEuMTcxOTgzNzUxMS4wLjAuMA..">Eventbrite</a></li>
           <li><a href="/">Artists</a></li>
         </ul>
       </div>
